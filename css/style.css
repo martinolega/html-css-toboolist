@@ -67,6 +67,29 @@ body
     color:white;
 }
 
+.tags-blue
+{
+    display: inline-block;
+    background-color: #07aad3;
+    color:white;
+    border-radius: 20%;
+    font-size: 70%;
+    padding: 7px;
+}
+
+.tick
+{
+    display: inline-block;
+    border: 1px solid green;
+    color:green;
+    background-color:white;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    text-align:center;
+    border-radius:50%;
+}
+
 
 /*COMMON*/
 
