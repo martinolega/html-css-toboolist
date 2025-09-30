@@ -13,7 +13,7 @@ header
     padding-top: 20px;
     padding-bottom: 40px;
     padding-left: 20px;
-    border-bottom: 1px solid black;
+    /*border-bottom: 1px solid black;*/
 }
 
 #logo
@@ -31,13 +31,64 @@ header
 }
 
 /*BODY*/
-
-
-
-
-
-/*COMMON*/
 body
 {
     font-family: sans-serif;
+}
+
+.bg-light-gray
+{
+    background-color: #f0efef;
+}
+
+.bg-blue
+{
+    background-color: #07aad3;
+}
+
+.bg-white
+{
+    background-color: white;
+}
+
+.maxi-container
+{
+    padding: 40px 20px;
+    min-height: 100vh;
+}
+
+.text-light-gray
+{
+    color:#b9b7b7;
+}
+
+.text-white
+{
+    color:white;
+}
+
+
+/*COMMON*/
+
+.mini-container
+{
+    background-color:white;
+    padding: 30px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.mb-50
+{
+    margin-bottom: 50px;
+}
+
+.button-padding
+{
+    padding: 10px;
+}
+
+.button-border
+{
+    border-radius: 10px;
 }
