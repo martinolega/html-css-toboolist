@@ -1,6 +1,43 @@
+/*RESET*/
 *
 {
     margin:0;
     padding:0;
     box-sizing: border-box;
+}
+
+/*HEADER*/
+
+header
+{
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    border-bottom: 1px solid black;
+}
+
+#logo
+{
+    height: 80px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.logo-text
+{
+    height: 50px;
+    vertical-align:middle;
+    font-size:50px;
+}
+
+/*BODY*/
+
+
+
+
+
+/*COMMON*/
+body
+{
+    font-family: sans-serif;
 }
