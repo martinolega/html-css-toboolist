@@ -117,8 +117,29 @@ h2
     padding: 7px;
 }
 
+.tags-pink
+{
+    display: inline-block;
+    background-color: #bb7ba8;
+    color:white;
+    border-radius: 20%;
+    font-size: 70%;
+    padding: 7px;
+}
+
+.tags-green
+{
+    display: inline-block;
+    background-color: #92c23a;
+    color:white;
+    border-radius: 20%;
+    font-size: 70%;
+    padding: 7px;
+}
+
 .tick
 {
+    font-size:85%;
     display: inline-block;
     border: 1px solid green;
     color:green;
@@ -132,6 +153,7 @@ h2
 
 .cross
 {
+    font-size:85%;
     display: inline-block;
     border: 1px solid red;
     color:red;
